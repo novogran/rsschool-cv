@@ -16,6 +16,9 @@ backend server APIs, and optimizing performance for optimal user experience.
 * RxJava/Coroutines
 * Android Jetpack
 * View Model
+* Ktor
+* Firebase Realtime Database
+* Jetpack Compose
 * Room/Realm
 * Live Data
 * Retrofit
@@ -25,6 +28,7 @@ backend server APIs, and optimizing performance for optimal user experience.
 ## Projects:
 * Swimming App ([GitHub link](https://github.com/asal/Calypso))
 * Weather Api ([GitHub link](https://github.com/novogran/weather_api))
+* Random Joke ([GitHub link](https://github.com/novogran/RandomJoke))
 ## Work experience:
 * internship in Whitesnake 12.2022-05.2023
 ## Education:
