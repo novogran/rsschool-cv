@@ -10,11 +10,12 @@
 }
 header {
     background-color: #39CCCC;
+    font-weight: 900;
 }
 body {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1.5;
     color: #001f3f;
     min-height: 100vh;
@@ -51,7 +52,7 @@ main {
     text-decoration: underline;
 }
 html {
-    background-color: #DDDDDD;
+    background-color: #e9e9e9;
     scroll-behavior: smooth;
 }
 .section-item a {
@@ -108,4 +109,28 @@ html {
     flex-direction: column;
     padding: auto;
     width: 50%;
+}
+.footer-container {
+    background-color: #39CCCC;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: auto;
+    color: #001f3f;
+    font-weight: 900;
+}
+.git-link {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #001f3f;
+}
+.git-link :hover {
+    color: #0074D9;
+    text-decoration: underline;
+}
+.git-logo {
+    width: 40px;
+    height: 40px;
 }
